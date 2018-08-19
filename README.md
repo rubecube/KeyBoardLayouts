@@ -1,2 +1,2 @@
 # KeyBoardLayouts
-Have the different layouts in accessible
+Have the different layouts accessible
