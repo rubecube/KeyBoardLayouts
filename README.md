@@ -5,7 +5,7 @@ Have the different layouts accessible
 
 .hex if form the qmk builder
 
-Always run the tqk as sudo to be able to flash it 
+## Always run the tqk as sudo to be able to flash it 
 
 Manual way of flashing
 ```
